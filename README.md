@@ -234,7 +234,7 @@ ___
 
 [Playbook docx файл](/Playbook/Playbook%20по%20устранению%20уязвимости%20CVE.docx)
 
-[Playbook README файл](/Playbook/Playbook%20по%20устранению%20уязвимости%20CVE.docx)
+[Playbook README файл](/Playbook/README.md)
 
 ## ** Установить SIEM систему (на ваше усмотрение Wazuh, ELK\EFK, cloud splunk)
 ___
