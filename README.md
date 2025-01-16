@@ -231,6 +231,7 @@ if __name__ == "__main__":
 ___
 >    Вам необходимо создать задачу для IT по её устранению. Что нужно будет сделать специалисту, чтобы исправить эту уязвимость? Напишите plabook для специалиста SOC L1
 ___
+
 [Playbook docx файл](/Playbook/Playbook%20по%20устранению%20уязвимости%20CVE.docx)
 
 [Playbook README файл](/Playbook/Playbook%20по%20устранению%20уязвимости%20CVE.docx)
@@ -250,8 +251,9 @@ ___
 
 </details>
 
-
-    Настроить логирование и отправку linux syslog / auditd
+___
+> Настроить логирование и отправку linux syslog / auditd
+___
 
 <details><summary>Скрины логов с Linux</summary>
 
