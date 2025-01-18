@@ -15,10 +15,6 @@ ___
 >    Дать ответы на практический тест по кибербезопасности:
 ___
 
-```text
-Дать ответы на практический тест по кибербезопасности:
-```
-
 [Practical test docx file](/Practical%20test/Diplom.docx)
 
 [Practical test README file](/Practical%20test/README.md)
