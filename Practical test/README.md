@@ -115,7 +115,7 @@ Apache Struts имеет уязвимость CVE-2011-1772 (XSS).
 
 24.	Восстановите пароль из хеша fmarket.stf\admin:1337:aad3b435b51404eeaad3b435b51404ee:bebaecb23aa18f5375628541ff3fb3b8:::
 А) LM-hash - aad3b435b51404eeaad3b435b51404ee - hash пустого пароля
-Б) NТ-hash - bebaecb23aa18f5375628541ff3fb3b8 - аб_123
+Б) NТ-hash - bebaecb23aa18f5375628541ff3fb3b8 - а6_123 (hashcat -a -m 1000 -r OneRuleToRuleThemAll.rule -o cracked.txt pass rockyou.txt)
 
 
 
