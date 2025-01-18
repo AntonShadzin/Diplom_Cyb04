@@ -197,7 +197,7 @@ ___
 
 [Script to check URL on Virustotal](/Script%20to%20check%20URL%20on%20Virustotal/Virustotal.py)
 
-<details><summary>Python</summary>
+<details><summary>Python скрипт</summary>
 
 ```python
 
