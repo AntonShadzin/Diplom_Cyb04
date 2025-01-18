@@ -113,8 +113,9 @@ c:\windows\system32\services.exe is launched by explorer.exe is it ok? If it is 
 OpenSSh 7.2p2 имеет уязвимость CVE-2016-6210 (username enumeration), CVE-2023-38408 
 Apache Struts имеет уязвимость CVE-2011-1772 (XSS).
 
-24.	Восстановите пароль из хеша fmarket.stf\admin:1337:aad3b435b51404eeaad3b435b51404ee:bebaecb23aa18f537
-ьзователя пустой пароль LM-hash - aad3b435b51404eeaad3b435b51404ee hash пустого пароля
+24.	Восстановите пароль из хеша fmarket.stf\admin:1337:aad3b435b51404eeaad3b435b51404ee:bebaecb23aa18f5375628541ff3fb3b8:::
+А) LM-hash - aad3b435b51404eeaad3b435b51404ee - hash пустого пароля
+Б) NТ-hash - bebaecb23aa18f5375628541ff3fb3b8 - аб_123
 
 
 
